@@ -1,0 +1,130 @@
+body{
+    background-image: linear-gradient(to top right,  rgba(125, 173, 163, 0.637) , rgb(141, 117, 141));
+
+}
+
+pre{
+    color: whitesmoke;
+    font-size:13.8px;
+    font-family:system-ui ;
+    text-shadow: 2px 2px gray;
+}
+p{
+    color: black;
+    font-size:13.8px;
+    text-shadow: 2px 2px rgb(141, 117, 141);
+    font-family:system-ui ;
+    position : absolute;
+    left: 640px;
+    top:150px;
+}
+.game{
+width: 535px;
+height: 550px;
+background-color:rgb(141, 117, 141);
+text-align: center;
+color: azure;
+margin: auto;
+position:absolute;
+top:190px;
+left: 430px;
+
+
+}
+
+span{
+    color:rgb(156, 11, 156) ;
+}
+.title{
+    width: 440px;
+background-color:rgba(125, 173, 163, 0.637);
+margin:7px 0;
+padding: 7px 0;
+text-align: center;
+color :yellow;
+position: absolute;
+top: 190px;
+left: 480px;
+}
+.title:hover{
+   background-color:rgb(94, 83, 94); 
+   cursor: pointer;
+}
+.s{
+    width: 130px;
+    height:130px;
+  float:left;
+    margin:2px;
+    text-align:center;
+    font-size:90px;
+    font-family:system-ui;
+    font-weight:500px;
+background-color:darkgrey;
+border: 2px double pink;
+border-radius:6px ;
+}
+.s:hover{
+    background-color:white;
+    cursor: pointer;
+}
+#i1{
+position: absolute;
+left: 490px;
+top:240px;
+
+}
+
+#i2{
+    position: absolute;
+    left: 630px;
+    top:240px;
+   
+    }
+
+
+#i3{
+    position: absolute;
+    left: 770px;
+    top:240px;
+}
+
+
+#i4{
+    position: absolute;
+    left: 490px;
+top:380px;
+}
+
+#i5{
+    position: absolute;
+    left: 630px;
+top:380px;
+}
+
+
+
+
+#i6{
+    position: absolute;
+    left: 770px;
+top:380px;
+}
+
+
+#i7{
+position: absolute;
+left: 490px;
+top:520px;
+}
+
+#i8{
+position: absolute;
+left: 630px;
+top:520px;
+}
+
+#i9{
+position: absolute;
+left: 770px;
+top:520px;
+}
